@@ -243,11 +243,6 @@
 			attributes = {
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = TODO;
-				TargetAttributes = {
-					70907E8A17993D5A00F83417 = {
-						DevelopmentTeam = 4BLWLFDFU8;
-					};
-				};
 			};
 			buildConfigurationList = 70907E8617993D5A00F83417 /* Build configuration list for PBXProject "FirstSquadron" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -404,14 +399,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = 4BLWLFDFU8;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FirstSquadron/FirstSquadron-Prefix.pch";
 				INFOPLIST_FILE = "FirstSquadron/FirstSquadron-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gamming.stick10.100;
 				PRODUCT_NAME = FirstSquadron;
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -421,14 +413,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = 4BLWLFDFU8;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FirstSquadron/FirstSquadron-Prefix.pch";
 				INFOPLIST_FILE = "FirstSquadron/FirstSquadron-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.gamming.stick10.100;
 				PRODUCT_NAME = FirstSquadron;
 				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
